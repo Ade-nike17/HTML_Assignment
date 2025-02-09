@@ -27,6 +27,7 @@
 
     a {
         color: rgb(0, 0, 0);
+        font-size: 20px;
     }
     a:hover {
         color: rgba(19, 124, 235);
